@@ -1,26 +1,10 @@
 # learn_JP
-学日语
+www.japanesewithanime.com
 
-* 50音图 ~0
+```
+Subj.がverb.
+Subj.がdir.obj.をverb.
+Subj.がdir.obj.をindir.obj.にverb.
 
-* 词汇量 0 
-
-* 真实/虚拟语境 均无概念，语法空白
-
-* 基本听得懂日语
-
-> 看了上千部动画，6,000~7,000时长的日语&中文字幕，对学习日语语言文字，百害无益，应抛弃会听的对照先验
-
-1. 认汉字
-
-> 汉字可以作为checkpoint，前后的假名，从而了解学习这个词
-
-2. 不同语言有形状
-
-> 跨语言学习的词汇并没有规律
-
-> 但是没有词汇就不可能触及形状 - 至少需要一定的词汇量
-
-3. 猜语言意思
-
-> 如果有片段，还是能够猜出语境，甚至词句含义，等信息的
+ga が, wo を, ni に, wa は, e へ, ka か, no の, na な, ne ね, wa わ, yo よ, zo ぞ, to と, ya や, de で, yori より, kara から, made まで, nite にて, bakari ばかり, and nagara ながら
+```
