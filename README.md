@@ -1,7 +1,12 @@
 # learn_JP
-www.japanesewithanime.com
+https://www.japanesewithanime.com
+https://www.japanesewithanime.com/search/label/Language%20Glossary
 
 ```
+adjectives
+
+particles
+
 Subj.がverb.
 Subj.がdir.obj.をverb.
 Subj.がdir.obj.をindir.obj.にverb.
